@@ -91,6 +91,7 @@ for some examples of how PyClaw can be used.
    ../first_run_pyclaw
    basics
    going_further
+   sharpclaw_poly
    classes
    ../developers
    troubleshooting

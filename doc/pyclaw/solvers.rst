@@ -79,6 +79,8 @@ not meant to be instantiated; you should use
 Most of the examples in `clawpack/pyclaw/examples` show how to use either
 Classic or SharpClaw.
 
+Besides TVD and WENO reconstruction, SharpClaw offers three linear polynomial reconstructions (``lim_type`` 4, 5 and 6), including one that adds no numerical dissipation; see :ref:`sharpclaw_poly`.
+
 
 .. _pyclaw_clawpack_solvers:
 
